@@ -33,6 +33,7 @@ ie; Tranportation, Finance, HR, IT, etc.
 • Gameplay continues for 5 rounds or until you are out of points.
 
 At the end of your gameplay The presentor has a HOTWASH - or summary of the events and how the gameplay afected each department and how it got them thinking about not just Cybersecurity incidents, but recovey plans in general and how each department has its piece of the puzzle.
+<img width="1896" height="897" alt="image" src="https://github.com/user-attachments/assets/dfa297e0-9fe8-45ad-a131-c8ea6fbeba1e" />
 
 
 
@@ -51,5 +52,6 @@ After each inject, select the affected departments and rate how well the primary
 
 Then fill out an incident response paper.  Either as a group, or if you have multiple departments, have each department fill one out, and report their findings to the group. 
 
+<img width="1824" height="839" alt="image" src="https://github.com/user-attachments/assets/0344fc78-77ec-4c72-ad3b-b445a80b6772" />
 
 
